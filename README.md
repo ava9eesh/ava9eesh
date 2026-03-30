@@ -10,8 +10,9 @@
 ---
 
 ## 🧠 About Me:
-- 🧑‍💻 I'm learning **JavaScript** and **Python**
-- 🎮 I like tech, coding & playing video games
+- 🧑‍💻 I'm learning **C**, **JavaScript** and **Python**
+- 🌐 Currently working on a **Study Tracker Web App**
+- 🎮 I like tech, coding & games
 - 🚀 Trying to improve every day
 - 💬 Ask me about beginner coding stuff
 - ⚡ Fun fact: I think you're cool 😎
@@ -19,22 +20,34 @@
 ---
 
 ## 🚀 My Project:
-🔗 **Study Tracker Website (BETA) **  
-👉 https://study-tracker-avs.vercel.app
+
+<p align="center">
+  <a href="https://study-tracker-avs.vercel.app">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.com/users/i_love_zandu_bam)
+
+<p align="center">
+  <a href="https://discord.com/users/i_love_zandu_bam">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5"/>
+</p>
 
 ---
 
-<p align="center">✨ Building step by step ✨</p>
+<p align="center">🚀 Building cool stuff step by step 🚀</p>
