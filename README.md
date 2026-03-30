@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Avaneesh</h1>
-<h3 align="center">Beginner Developer | Learning C, JS & Python</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Beginner+Developer;C,+JavaScript+%26+Python;Building+Cool+Stuff;Always+Learning+🚀">
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320">
 </p>
 
 ---
 
 ## 🧠 About Me:
-- 🧑‍💻 I'm learning **C**, **JavaScript** and **Python**
-- 🌐 Currently working on a **Study Tracker Web App**
-- 🎮 I like tech, coding & games
-- 🚀 Trying to improve every day
-- 💬 Ask me about beginner coding stuff
+
+- 🧑‍💻 Learning **C**, **JavaScript** & **Python**
+- 🌐 Building a **Study Tracker Web App**
+- 🎮 Into tech, coding & Games
+- 🚀 Improving every single day
+- 💬 Ask me anything beginner-friendly
 - ⚡ Fun fact: I think you're cool 😎
 
 ---
@@ -23,13 +27,13 @@
 
 <p align="center">
   <a href="https://study-tracker-avs.vercel.app">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Website-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 
 <p align="center">
   <a href="https://discord.com/users/i_love_zandu_bam">
@@ -50,4 +54,12 @@
 
 ---
 
-<p align="center">🚀 Building cool stuff step by step 🚀</p>
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ava9eesh&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">🔥 Grinding. Building. Improving. 🔥</p>
