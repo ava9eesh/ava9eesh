@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 My Project:
-🔗 **Study Tracker Website**  
+🔗 **Study Tracker Website (BETA) **  
 👉 https://study-tracker-avs.vercel.app
 
 ---
