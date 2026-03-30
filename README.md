@@ -18,6 +18,12 @@
 
 ---
 
+## 🚀 My Project:
+🔗 **Study Tracker Website**  
+👉 https://study-tracker-avs.vercel.app
+
+---
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.com/users/i_love_zandu_bam)
 
@@ -28,11 +34,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)
-
----
-
-## 🚀 Current Big Project:
-![Study Tracking Website (BETA) ](https://study-tracker-avs.vercel.app)
 
 ---
 
