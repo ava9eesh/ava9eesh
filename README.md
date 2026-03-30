@@ -31,8 +31,8 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Ava9eesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ava9eesh&show_icons=true&theme=tokyonight)
+## 🚀 Current Big Project:
+![Study Tracking Website (BETA) ](https://study-tracker-avs.vercel.app)
 
 ---
 
